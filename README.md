@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ⬇️
 
-<!--
-**yagojoj/yagojoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é yago de jesus
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo na linguagem java script
+
+-Utilizo essse espaço para organização e compartilhamento de projetos
+
+
+### Você pode entrar em contato comigo 📧
+
+yagojesusjordao@gmail.com
+
+@yago_jordao
+
+
+![](https://media.tenor.com/kLN0OuTw2SwAAAAi/cavalinho-palmeiras.gif)
